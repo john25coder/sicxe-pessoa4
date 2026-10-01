@@ -1,4 +1,4 @@
-# SIC/XE - Pessoa 4 em C
+# SIC/XE - em C
 
 Implementacao isolada das instrucoes de movimentacao de dados e controle de
 fluxo atribuidas a Pessoa 4.
